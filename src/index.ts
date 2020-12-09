@@ -1,7 +1,7 @@
-import { URLController } from './controller/URLController';
 import express, {Request, Response} from 'express';
 import bodyparser  from 'body-parser'
 import { MongoConnections } from './database/MongoConnection';
+import { URLController } from './controller/URLController';
 
 const api = express();
 const urlcontroller = new URLController();

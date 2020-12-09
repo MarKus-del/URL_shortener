@@ -1,7 +1,6 @@
 import { config } from '../config/Constants'
 import mongoose from 'mongoose'
 
-
 export class MongoConnections {
     public async connect(): Promise<void>{
         try {

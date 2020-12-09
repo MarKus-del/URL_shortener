@@ -1,6 +1,6 @@
 # URL-shotener
 
-Projeto feito na plataforma educacional da [digital innovation one]("https://digitalinnovation.one/")
+Projeto feito na plataforma educacional da [digital innovation one](https://digitalinnovation.one/)
 
 ## tecnologias
 
